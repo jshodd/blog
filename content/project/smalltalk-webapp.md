@@ -26,5 +26,5 @@ math = false
 
 +++
 I created an appointment scheduler application using Cincom smalltalk!
-TESTTESTTEST
-**This part of the site is still being worked on, more info will be added soon!
+
+###This part of the site is still being worked on, more info will be added soon!
