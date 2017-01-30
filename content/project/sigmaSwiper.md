@@ -25,7 +25,6 @@ external_link = ""
 math = false
 
 +++
-test
 [See the latest code here](https://www.github.com/jshodd/sigmaSwiper)
 
 I have been involved in many organizations on my college campus, and every single one has a similar issue. Whether it is a a group holding official meetings, recruiting members, or having a social event, these organizations need to know who all attended. Currently these groups simply write all names and ID numbers by hand and physically check guestlists if applicable. My solution to this problem is to implement a program that will allow these groups to use the student ID cards to make this task trivial, along with many additional features. In the first version of this program, I will be focusing on our on campus fraternities. For each social event that the fraternities have, they must keep an updated list of who all entered their houses as well as use guestlists to only grant certain individuals access. This would be an easy task if only twenty people attented these events, but with the average attendence being around 200 people human error begins to take effect. To solve this problem, I am creating a kiosk with a [raspberry pi 3](https://www.amazon.com/Raspberry-Pi-896-8660-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_1?s=pc&ie=UTF8&qid=1483812107&sr=1-1&keywords=raspberry+pi+3). While the progam works perfectly on a full sized computer, a kiosk was a much more convinient and cost effective method costing approximately $150 (a full list of parts will be listed below).
