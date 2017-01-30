@@ -11,16 +11,16 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 13
 +++
-| Course                                 | Language                   | Year       | Grade          |
-|----------------------------------------|----------------------------|------------|----------------|
-| Senior Capstone                        |                            | Senior     | WIP            |
-| Database Theory & Design               |                            | Senior     | WIP            |
-| Data Communications                    |                            | Senior     | WIP            |
-| Software Engineering                   |                            | Senior     | WIP            |
-| Language Design                        | Smalltalk, Clojure, Prolog | Senior     | B              |
-| Data Structures                        | C++                        | Senior     | B              |
-| Information Security                   |                            | Junior     | B              |
-| Discrete Mathematics                   |                            | Junior     | B              |
-| Principles of Accounting               |                            | Junior     | A              |
-| Principles of Computer Science         | Java                       | Junior     | A              |
-| Management Information Systems         |                            | Sophmore   | B              |
+| Course                                 | Language                   | Year       |
+|----------------------------------------|----------------------------|------------|
+| Senior Capstone                        |                            | Senior     |
+| Database Theory & Design               |                            | Senior     |
+| Data Communications                    |                            | Senior     |
+| Software Engineering                   |                            | Senior     |
+| Language Design                        | Smalltalk, Clojure, Prolog | Senior     |
+| Data Structures                        | C++                        | Senior     |
+| Information Security                   |                            | Junior     |
+| Discrete Mathematics                   |                            | Junior     |
+| Principles of Accounting               |                            | Junior     |
+| Principles of Computer Science         | Java                       | Junior     |
+| Management Information Systems         |                            | Sophmore   |
