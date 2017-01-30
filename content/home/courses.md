@@ -14,7 +14,7 @@ weight = 13
 | Course                                 | Language                   | Year       |
 |----------------------------------------|----------------------------|------------|
 | Senior Capstone                        |                            | Senior     |
-| Database Theory & Design               |                            | Senior     |
+| Database Theory & Design               | SQL                        | Senior     |
 | Data Communications                    |                            | Senior     |
 | Software Engineering                   |                            | Senior     |
 | Language Design                        | Smalltalk, Clojure, Prolog | Senior     |
