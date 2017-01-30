@@ -16,7 +16,7 @@ image = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["course-work", "security"]e
+tags = ["course-work", "security"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -30,4 +30,4 @@ My senior capstone project at westminster is a full penetration test of the coll
 ##Man in the Middle
 
 The first thing that my adviser and I wanted to look at is what an attacker could pick up by intercepting packets sent to and from a machine. 
-**This project is still in progress! check back later for new updates!h
+**This project is still in progress! check back later for new updates!
