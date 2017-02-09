@@ -14,6 +14,7 @@ weight = 10
 +++
 
 ### IT Intern at Treloar and Heisel [Aug. 2016 - Current] ###
+- Performed a Risk assessment and a basic penetration test
 - Wrote Visual Basic scripts to manipulate Excel files
 - Wrote Python scripts to extract data from pdf files	
 
