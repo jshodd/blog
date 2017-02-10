@@ -15,7 +15,7 @@ weight = 1
   interests = [
     "Cyber Security",
     "Network Engineering",
-    "Python"
+    "Software Engineering"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,4 +31,4 @@ weight = 1
 
 # Biography
 
-I am currently a senior at Westminster College in New Wilmington, Pennsylvania and will graduate with a Bachelors in Computer Information Systems in May of 2017. I am a highly motivated and hard working individual, who has demonstrated great interest in cyber security, networking, and Python. Through rigorous coursework, extensive work experience, and personal projects I have developed a variety of skills useful to the industry. I am eager to learn and to continue to develop my skills in a role involved with security, systems administration, network engineering, software development. My eventual career goal is to become a penetration tester. In addition to obtaining a junior position after school, I plan on pursuing the OSCP Certification to further improve my skills and knowledge.     
+I am currently a senior at Westminster College in New Wilmington, Pennsylvania and will graduate with a Bachelors in Computer Information Systems in May of 2017. I am a highly motivated and hard working individual, who has demonstrated great interest in cyber security, networking, and programming. Through rigorous coursework, extensive work experience, and personal projects I have developed a variety of skills useful to the industry. I am eager to learn and to continue to develop my skills in a role that allows me to continue learning new skills and technologies. My eventual career goal is to become a penetration tester. In addition to obtaining a junior position after school, I plan on pursuing the OSCP Certification to further improve my skills and knowledge.     
