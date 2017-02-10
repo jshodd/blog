@@ -22,7 +22,7 @@ weight = 10
 - Managed all Server backups and maintanance
 - Developed a program in Powershell to automate many simple Active Directory tasks
 
-### Business Owner Control Alt Elite [Oct. 2015 - May 2016] ###
+### Business Owner at Control Alt Elite [Oct. 2015 - May 2016] ###
 - Offered services such as computer repair, virus removal, custom computer building
 - Recording processes for common tasks to increase future productivity
 

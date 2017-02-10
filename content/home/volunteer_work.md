@@ -22,6 +22,7 @@ weight = 10
 * Built a touch screen kiosk using a raspberry pi to run the program
 * Worked with four organizations to implement this device into risk management programs
 * This is the first device of its kind to be utilized by fraternities
+* See more details on the project page for the [Sigma Swiper]{http://jacobshodd.com/project/sigmaSwiper/}
 ### Web Designer for Enactus [Jan. 2017 - Current] ###
 * Designed a website to allow local community members and students connect to work on projects
 * Used Wordpress to ensure changes will be easy for non-technical users to make
