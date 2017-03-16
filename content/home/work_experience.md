@@ -13,16 +13,21 @@ weight = 10
 
 +++
 
-### IT Intern at Treloar and Heisel [Aug. 2016 - Current] ###
+### QA Tester at Black Knight Financial Services###
+ - Performed manual software tests to ensure proper functinality of our loan originating software
+ - Reviewed changes in C# code to determine possible causes for error
+ - Utilized the Microsoft Test Management suite and visual studio to  carry out tests  
+
+### IT Intern at Treloar and Heisel ###
 - Performed a Risk assessment and a basic penetration test
 - Wrote Visual Basic scripts to manipulate Excel files
 - Wrote Python scripts to extract data from pdf files	
 
-### IT Intern at Thales Transport Security Inc. [May 2016 - Aug 2016] ###
+### IT Intern at Thales Transport Security Inc. ###
 - Managed all Server backups and maintanance
 - Developed a program in Powershell to automate many simple Active Directory tasks
 
-### Business Owner at Control Alt Elite [Oct. 2015 - May 2016] ###
+### Business Owner at Control Alt Elite  ###
 - Offered services such as computer repair, virus removal, custom computer building
 - Recording processes for common tasks to increase future productivity
 
