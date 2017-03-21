@@ -26,4 +26,4 @@ math = false
 
 +++
 [See the latest code here](https://www.github.com/jshodd/goChat)
-![Example image](/static/img/GoChat-Client.png)
+![Server image](/static/img/GoChat-Server.png)
