@@ -30,6 +30,10 @@ view = 0
   tag = ".course-work"
 
 [[filter]]
+  name = "Go"
+  tag = ".golang"
+
+[[filter]]
   name = "Security"
   tag = ".security"
 
