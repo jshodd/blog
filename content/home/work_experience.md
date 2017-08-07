@@ -13,10 +13,10 @@ weight = 10
 
 +++
 ### Operations Engineer at M\*Modal###
- - Performed manual software tests to ensure proper functinality of our loan originating software
- - Reviewed changes in C# code to determine possible causes for error
- - Utilized the Microsoft Test Management suite and visual studio to  carry out tests  
-
+- Created an internal web application using Golang to act as a reporting and alerting portal
+- Implemented a Prometheus monitoring framework in Kubernetes clusters across several data centers
+- Wrote, maintained, and utilized Python scripts to automate tasks and process data
+- Deployed production code with Kubernetes and performed profile data migrations between databases
 ### QA Tester at Black Knight Financial Services###
  - Performed manual software tests to ensure proper functinality of our loan originating software
  - Reviewed changes in C# code to determine possible causes for error
