@@ -18,7 +18,7 @@ weight = 15
 | Python    | Intermediate    | 2 years   |
 | Bash      | Intermediate    | 2 years   |
 | Java      | Intermediate    | 2 years   |
-| Nmap      | Intermediate    | 1 year    |
-| C++       | Intermediate    | 1 year    |
+| Golang    | Novice          | < 1 year  |
+| C++       | Novice          | < 1 year  |
 | Clojure   | Novice          | < 1 year  |
 | SmallTalk | Novice          | < 1 year  |

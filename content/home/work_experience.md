@@ -12,6 +12,10 @@ subtitle = ""
 weight = 10
 
 +++
+### Operations Engineer at M\*Modal###
+ - Performed manual software tests to ensure proper functinality of our loan originating software
+ - Reviewed changes in C# code to determine possible causes for error
+ - Utilized the Microsoft Test Management suite and visual studio to  carry out tests  
 
 ### QA Tester at Black Knight Financial Services###
  - Performed manual software tests to ensure proper functinality of our loan originating software
