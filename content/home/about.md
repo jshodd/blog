@@ -13,10 +13,10 @@ weight = 1
 [interests]
   title = "Interests"
   interests = [
-    "Software Engineering",
-    "Distributed Systems",
-    "Networking",
-    "Cyber Security"
+    "Cyber Security",
+    "Reverse Engineering",
+    "Golang",
+    "Python"
 
   ]
 
@@ -27,10 +27,10 @@ weight = 1
 [[education.courses]]
   course = "BS in Computer Information Systems"
   institution = "Westminster College, Pa"
-  year = "expected 2017"
+  year = "May 2017"
 
 +++
 
 # Biography
 
-I am currently a senior at Westminster College in New Wilmington, Pennsylvania and will graduate with a Bachelors in Computer Information Systems in May of 2017. I am a highly motivated and hard working individual, who has demonstrated great interest in a wide variety of subjects ranging from programming to cyber security. Through rigorous coursework, extensive work experience, and personal projects I have developed a variety of skills useful to the industry. I am eager to learn and to continue to develop my skills in a role that allows me to continue learning new skills and technologies. My eventual career goal is work with distributed systems or artificial intelligence.     
+I am currently working as an operations engineer at M\*Modal. An average day at work can vary quite a bit. For example, One day I can be working on implementing a Prometheus monitoring system and experimenting with Kubernetes and Docker, while another I will be building a web application in Golang. Because of the topic of my work can be different every day, I am able to learn and experiment with a wide array of technologies and tools. Outside of work I enjoy exploring areas outside of those at work to find projects. Most recently I have taken up the book "Hacking: The Art Of Exploitation" to learn more about C, x86 assembly, and reverese engineering. Following this book I plan to move onto books such as Pracical Malware Analysis and Malware Analysts Cookbook.

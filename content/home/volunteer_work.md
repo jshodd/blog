@@ -29,7 +29,4 @@ weight = 11
 - Designed a website to allow local community members and students connect to work on projects
 - Used Wordpress to ensure changes will be easy for non-technical users to make
 
-### Web Designer for Volant City Council ###
-- Created website for small shops in Volant to communicate with the public and coordinate events
-- Worked with business owners to take what they liked about their old site and build upon that
 

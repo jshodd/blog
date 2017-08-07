@@ -15,8 +15,8 @@ googleAnalytics = ""
 
 [params]
   name = "Jacob Shodd"
-  role = "Studying Computer Information Systems"
-  organization = "Westminster College"
+  role = "Operations Engineer"
+  organization = "M\*Modal"
   avatar = "portrait.jpg"
   email = "jacobshodd@gmail.com"
   #address = "Stanford AI Lab, Stanford University, California, 90210, USA."
