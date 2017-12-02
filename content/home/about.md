@@ -13,11 +13,9 @@ weight = 1
 [interests]
   title = "Interests"
   interests = [
-    "Cyber Security",
-    "Reverse Engineering",
     "Golang",
-    "Python"
-
+    "Amazon Web Services",
+    "Cyber Security"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,4 +31,4 @@ weight = 1
 
 # Biography
 
-I am currently working as an operations engineer at M\*Modal. An average day at work can vary quite a bit. For example, One day I can be working on implementing a Prometheus monitoring system and experimenting with Kubernetes and Docker, while another I will be building a web application in Golang. Because of the topic of my work can be different every day, I am able to learn and experiment with a wide array of technologies and tools. Outside of work I enjoy exploring areas outside of those at work to find projects. Most recently I have taken up the book "Hacking: The Art Of Exploitation" to learn more about C, x86 assembly, and reverese engineering. Following this book I plan to move onto books such as Pracical Malware Analysis and Malware Analysts Cookbook.
+I am currently working as an operations engineer at M\*Modal. An average day at work can vary quite a bit. For example, One day I can be working on implementing a Prometheus monitoring system and experimenting with Kubernetes and Docker, while another I will be building a web application in Go. Because of the topic of my work can be different every day, I am able to learn and experiment with a wide array of technologies and tools. Outside of work I enjoy exploring a wide variety of topics ranging from amazon web services to graph based database systems like Neo4J. For a more complete description of what I do, be sure to check out my work experience and poject sections.
